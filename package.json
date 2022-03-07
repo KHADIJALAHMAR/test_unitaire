@@ -1,0 +1,19 @@
+{
+  "name": "test-unitaire",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js": "^0.1.0",
+    "mocha": "^9.2.0",
+    "node": "^17.4.0"
+  },
+  "description": ""
+}
